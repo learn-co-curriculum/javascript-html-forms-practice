@@ -12,6 +12,8 @@ It is recommended that you use the Visual Studio Code (VSCode) IDE for this prac
 
 Useful considerations and terminology:
 
+**HTML Form**: A form for user input that is created by a `<form>` element that consists of opening and closing `<form>` tags that enclose one or more `<input>` elements where users can enter information, and a way to submit the form.
+
 **Event**: Something a user does on a web page or something that happens on a web page.
 
 **Event handler**: A callback function that executes code in response to an event.
