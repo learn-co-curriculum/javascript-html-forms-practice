@@ -50,6 +50,7 @@ These are your tasks:
       - A key of `name` whose value is the value of the `value` attribute of the `<input>` element with the id of `name-input`.
       - A key of `image` whose value is the value of the `value` attribute of the `<input>` element with the id of `image-input`.
       - A key of `price` whose value is the value of the `value` attribute of the `<input>` element with the id of `price-input`.
+      - A key of `numberInCart` whose value is set to `0`.
     - The `object` referenced by the `newItem` variable is added to the array referenced by the `items` variable.
     - The `addItemOptionToSelect()` function is called and the `object` referenced by the `newItem` variable is passed in as an argument to the `addItemOptionToSelect()` function.
 
