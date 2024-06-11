@@ -20,12 +20,10 @@ Useful considerations and terminology:
 
 Here are some other useful resources:
 - MDN
-  - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
-  - [Event reference (Web Events)](https://developer.mozilla.org/en-US/docs/Web/Events)
-  - [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
-    - [Element: click event](https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event)
-  - [HTMLElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement)
-    - [HTMLElement: change event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event)
+  - [HTMLFormElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement)
+    - [HTMLFormElement: submit event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
+  - [Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+    - [Event: preventDefault() method](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
 
 ## Instructions
 
