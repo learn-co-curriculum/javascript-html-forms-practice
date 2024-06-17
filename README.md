@@ -59,6 +59,7 @@ These are your tasks:
 ## Solution
 
 ```javascript
+// Task # 2 solution code
 function addItemOptionToSelect(item){
     const optionElement = document.createElement('option');
     optionElement.value = item.name;
@@ -68,6 +69,7 @@ function addItemOptionToSelect(item){
     itemSelect.appendChild(optionElement);
 }
 
+// Task # 4 solution code
 function handleSubmit(event){
     event.preventDefault();
 
@@ -87,8 +89,10 @@ function handleSubmit(event){
     addItemOptionToSelect(newItem);
 }
 
+// Task # 1 solution code
 items.forEach(addItemOptionToSelect);
 
+// Task # 3 solution code
 const newItemForm = document.getElementById('new-item-form');
 newItemForm.addEventListener('submit', handleSubmit);
 ```
