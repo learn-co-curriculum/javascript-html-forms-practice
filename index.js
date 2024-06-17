@@ -92,4 +92,6 @@ function handleSubmit(event){
     // Write your solution code for Task # 4 here!
 }
 
-// Write your solution code for Task # 1 & 3 here!
+// Write your solution code for Task # 1 here!
+
+// Write your solution code for Task # 3 here!
